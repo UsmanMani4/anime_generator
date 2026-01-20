@@ -2,7 +2,7 @@
 
 This repository contains a **Deep Learning–based Anime Face Generator** developed as a **Semester project**, focused on generating anime-style character faces using **Deep Convolutional Generative Adversarial Networks (DCGANs)**.
 
-The project demonstrates how GANs can learn complex visual patterns—such as **hair styles, hair colors, eye structures, and facial shapes**—from a **limited anime face dataset** and synthesize new, realistic-looking faces through adversarial training.
+The project demonstrates how GANs can learn complex visual patterns such as **hair styles, hair colors, eye structures, and facial shapes** from a **limited anime face dataset** and synthesize new, realistic looking faces through adversarial training.
 
 ---
 
