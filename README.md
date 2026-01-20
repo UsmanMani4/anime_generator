@@ -72,21 +72,6 @@ Training was performed on **GPU using Google Colab** due to the computational co
 
 ---
 
-##  Repository Contents
-
-├── DCGAN_Anime_Generator.ipynb
-└── README.md
-
-
-The notebook includes:
-- Dataset loading and normalization
-- Generator and Discriminator definitions
-- Custom DCGAN training loop
-- Training monitoring logic
-- Sample image generation from random noise
-
----
-
 ##  Key Learning Outcomes
 
 - Practical understanding of **GAN training dynamics**
